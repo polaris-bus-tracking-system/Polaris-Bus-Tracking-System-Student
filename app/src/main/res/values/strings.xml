@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Polaris Student</string>
+    <string name="title_activity_student_bus_tracking">StudentBusTracking</string>
+    <string name="title_activity_tracking">Tracking</string>
+</resources>
